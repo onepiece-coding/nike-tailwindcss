@@ -48,4 +48,4 @@ To run this project locally, follow these steps:
    
 5. **Open your browser and visit http://localhost:3000 to view the landing page.**
 
-Enjoy the project! If you find it helpful, don't forget to give it a ⭐️ on GitHub and share it with others!
+**Enjoy the project! If you find it helpful, don't forget to give it a ⭐️ on GitHub and share it with others!**
